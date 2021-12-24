@@ -1,3 +1,3 @@
 # APT-decoder
 
-A tool to decode `.apt`or `.aptx`, JWST and HST proposal files created by ASTRONOMER'S PROPOSAL TOOL (APT).
+Some code snippets to decode JWST `.aptx` or HST `.apt` proposal files created by ASTRONOMER'S PROPOSAL TOOL ([APT](https://www.stsci.edu/scientific-community/software/astronomers-proposal-tool-apt)).
